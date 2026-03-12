@@ -1,9 +1,11 @@
-package bestphone;
+package bestphone_m;
 
 import org.testng.annotations.Test;
 
 import base.BaseTest;
 import base.DriverFactory;
+import bestphone_m.BestPhone;
+import bestphone_m.Search;
 
 public class BestPhoneTest extends BaseTest {
   @Test

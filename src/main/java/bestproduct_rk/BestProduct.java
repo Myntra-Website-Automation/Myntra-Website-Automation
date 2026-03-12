@@ -1,4 +1,4 @@
-package myntra_rk;
+package bestproduct_rk;
 
 import java.util.List;
 
@@ -12,9 +12,9 @@ import org.openqa.selenium.support.FindBy;
 
 import base.BasePage;
 
-public class MaxPriceProduct extends BasePage {
+public class BestProduct extends BasePage {
 
-	public MaxPriceProduct(WebDriver driver) {
+	public BestProduct(WebDriver driver) {
 		super(driver);
 	}
 

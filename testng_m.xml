@@ -5,9 +5,8 @@
 	</listeners>
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="searchShirt_k.searchItemTest" />
-			<class name="bestShirt_k.bestItemTest" />
-			<class name="similarShirt_k.similarItemTest" />
+			<class name="bestphone_m.SearchTest" />
+			<class name="bestphone_m.BestPhoneTest" />
 		</classes>
 	</test> <!--
 	Test -->

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	<listeners>
+		<listener class-name="listeners.TestListener" />
+	</listeners>
+	<test name="AllTestCases">
+		<suite-file path="testng_k.xml" />
+		<suite-file path="testng_m.xml" />
+		<suite-file path="testng_pb.xml" />
+		<suite-file path="testng_rk.xml" />
+	</test><!--
+	Test -->
+</suite> <!--
+Suite -->

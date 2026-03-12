@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-12T19:41:51 IST" name="Suite" finished-at="2026-03-12T19:41:51 IST" duration-ms="4">
+    <groups>
+    </groups>
+    <test started-at="2026-03-12T19:41:51 IST" name="AllTestCases" finished-at="2026-03-12T19:41:51 IST" duration-ms="4">
+    </test> <!-- AllTestCases -->
+  </suite> <!-- Suite -->
+  <suite started-at="2026-03-12T19:40:45 IST" name="Suite (1)" finished-at="2026-03-12T19:41:11 IST" duration-ms="25303">
+    <groups>
+    </groups>
+    <test started-at="2026-03-12T19:40:45 IST" name="Test" finished-at="2026-03-12T19:41:11 IST" duration-ms="25303">
+      <class name="bestphone_m.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:bestphone_m.SearchTest@4c309d4d]" started-at="2026-03-12T19:40:20 IST" name="setup" finished-at="2026-03-12T19:40:45 IST" duration-ms="24899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearch()[pri:0, instance:bestphone_m.SearchTest@4c309d4d]" started-at="2026-03-12T19:40:45 IST" name="verifySearch" finished-at="2026-03-12T19:40:52 IST" duration-ms="6630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bestphone_m.SearchTest@4c309d4d]" started-at="2026-03-12T19:41:11 IST" name="tearDown" finished-at="2026-03-12T19:41:13 IST" duration-ms="2000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bestphone_m.SearchTest -->
+      <class name="bestphone_m.BestPhoneTest">
+        <test-method signature="verifyBestPhone()[pri:0, instance:bestphone_m.BestPhoneTest@38102d01]" started-at="2026-03-12T19:40:53 IST" name="verifyBestPhone" finished-at="2026-03-12T19:41:09 IST" duration-ms="16159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBestPhone -->
+      </class> <!-- bestphone_m.BestPhoneTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (1) -->
+  <suite started-at="2026-03-12T19:39:38 IST" name="Suite (0)" finished-at="2026-03-12T19:40:16 IST" duration-ms="38044">
+    <groups>
+    </groups>
+    <test started-at="2026-03-12T19:39:38 IST" name="Test" finished-at="2026-03-12T19:40:16 IST" duration-ms="38044">
+      <class name="similarShirt_k.similarItemTest">
+        <test-method signature="verify_similaritems()[pri:1, instance:similarShirt_k.similarItemTest@bccb269]" started-at="2026-03-12T19:40:04 IST" name="verify_similaritems" finished-at="2026-03-12T19:40:06 IST" duration-ms="2002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_similaritems -->
+        <test-method signature="bestSimilarItem()[pri:2, instance:similarShirt_k.similarItemTest@bccb269]" started-at="2026-03-12T19:40:06 IST" name="bestSimilarItem" finished-at="2026-03-12T19:40:09 IST" duration-ms="2716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bestSimilarItem -->
+      </class> <!-- similarShirt_k.similarItemTest -->
+      <class name="bestShirt_k.bestItemTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:bestShirt_k.bestItemTest@66d18979]" started-at="2026-03-12T19:39:44 IST" name="setup" finished-at="2026-03-12T19:39:44 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_allShirts()[pri:1, instance:bestShirt_k.bestItemTest@66d18979]" started-at="2026-03-12T19:39:44 IST" name="verify_allShirts" finished-at="2026-03-12T19:39:54 IST" duration-ms="10686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_allShirts -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:bestShirt_k.bestItemTest@66d18979]" started-at="2026-03-12T19:39:56 IST" name="setup" finished-at="2026-03-12T19:39:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="find_bestShirt()[pri:2, instance:bestShirt_k.bestItemTest@66d18979]" started-at="2026-03-12T19:39:56 IST" name="find_bestShirt" finished-at="2026-03-12T19:40:03 IST" duration-ms="7683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- find_bestShirt -->
+      </class> <!-- bestShirt_k.bestItemTest -->
+      <class name="searchShirt_k.searchItemTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:searchShirt_k.searchItemTest@2de23121]" started-at="2026-03-12T19:39:27 IST" name="setup" finished-at="2026-03-12T19:39:38 IST" duration-ms="11214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_search()[pri:0, instance:searchShirt_k.searchItemTest@2de23121]" started-at="2026-03-12T19:39:39 IST" name="verify_search" finished-at="2026-03-12T19:39:43 IST" duration-ms="3959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_search -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:searchShirt_k.searchItemTest@2de23121]" started-at="2026-03-12T19:40:18 IST" name="tearDown" finished-at="2026-03-12T19:40:20 IST" duration-ms="2111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- searchShirt_k.searchItemTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite started-at="2026-03-12T19:41:33 IST" name="Suite (3)" finished-at="2026-03-12T19:41:50 IST" duration-ms="17401">
+    <groups>
+    </groups>
+    <test started-at="2026-03-12T19:41:33 IST" name="Test" finished-at="2026-03-12T19:41:50 IST" duration-ms="17401">
+      <class name="bestproduct_rk.BestProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:bestproduct_rk.BestProductTest@117e949d]" started-at="2026-03-12T19:41:29 IST" name="setup" finished-at="2026-03-12T19:41:33 IST" duration-ms="3462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initPage()[pri:0, instance:bestproduct_rk.BestProductTest@117e949d]" started-at="2026-03-12T19:41:33 IST" name="initPage" finished-at="2026-03-12T19:41:33 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPage -->
+        <test-method signature="clickSearchBoxTest()[pri:1, instance:bestproduct_rk.BestProductTest@117e949d]" started-at="2026-03-12T19:41:33 IST" name="clickSearchBoxTest" finished-at="2026-03-12T19:41:42 IST" duration-ms="8949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSearchBoxTest -->
+        <test-method signature="clickFindBestProductsTest()[pri:2, instance:bestproduct_rk.BestProductTest@117e949d]" started-at="2026-03-12T19:41:42 IST" name="clickFindBestProductsTest" finished-at="2026-03-12T19:41:44 IST" duration-ms="1860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickFindBestProductsTest -->
+        <test-method signature="clickFindBestProducts2Test()[pri:3, instance:bestproduct_rk.BestProductTest@117e949d]" started-at="2026-03-12T19:41:45 IST" name="clickFindBestProducts2Test" finished-at="2026-03-12T19:41:47 IST" duration-ms="2154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickFindBestProducts2Test -->
+        <test-method signature="clickFindSimilarProductTest()[pri:4, instance:bestproduct_rk.BestProductTest@117e949d]" started-at="2026-03-12T19:41:47 IST" name="clickFindSimilarProductTest" finished-at="2026-03-12T19:41:49 IST" duration-ms="2053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickFindSimilarProductTest -->
+        <test-method signature="clickBestProductsTest()[pri:5, instance:bestproduct_rk.BestProductTest@117e949d]" started-at="2026-03-12T19:41:50 IST" name="clickBestProductsTest" finished-at="2026-03-12T19:41:50 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickBestProductsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:bestproduct_rk.BestProductTest@117e949d]" started-at="2026-03-12T19:41:50 IST" name="tearDown" finished-at="2026-03-12T19:41:51 IST" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bestproduct_rk.BestProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (3) -->
+  <suite started-at="2026-03-12T19:41:27 IST" name="Suite (2)" finished-at="2026-03-12T19:41:29 IST" duration-ms="1435">
+    <groups>
+    </groups>
+    <test started-at="2026-03-12T19:41:27 IST" name="Test" finished-at="2026-03-12T19:41:29 IST" duration-ms="1435">
+      <class name="login_PB.RegisterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:login_PB.RegisterTest@6f45df59]" started-at="2026-03-12T19:41:13 IST" name="setup" finished-at="2026-03-12T19:41:27 IST" duration-ms="14471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initPage()[pri:0, instance:login_PB.RegisterTest@6f45df59]" started-at="2026-03-12T19:41:27 IST" name="initPage" finished-at="2026-03-12T19:41:27 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPage -->
+        <test-method signature="registerCandidateTest()[pri:0, instance:login_PB.RegisterTest@6f45df59]" started-at="2026-03-12T19:41:27 IST" name="registerCandidateTest" finished-at="2026-03-12T19:41:27 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerCandidateTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:login_PB.RegisterTest@6f45df59]" started-at="2026-03-12T19:41:29 IST" name="tearDown" finished-at="2026-03-12T19:41:29 IST" duration-ms="567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- login_PB.RegisterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (2) -->
+</testng-results>
