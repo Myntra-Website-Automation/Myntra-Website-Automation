@@ -9,12 +9,6 @@
 		<maven.compiler.target>21</maven.compiler.target>
 	</properties>
 	<dependencies>
-		<dependency>
-			<groupId>org.testng</groupId>
-			<artifactId>testng</artifactId>
-			<version>7.4.0</version>
-			<scope>test</scope>
-		</dependency>
 		<!-- Latest Selenium -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
@@ -77,4 +71,5 @@
 			<version>0.7.7.0</version>
 		</dependency>
 	</dependencies>
+
 </project>
